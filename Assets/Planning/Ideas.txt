@@ -1,0 +1,26 @@
+Ludum Dare 49 - Theme: Unstable
+
+- Use a wrecking ball to destroy buildings.. how to make fun?
+
+The future is now. You are piloting a brand new demoloplane, responsible for flying through the city and demolishing old buildings. Attached to your plane is a wrecking ball, make sure you demolish old buildings, and not the new ones! Consecutive demolished buildings = extra points, destroy a new building and it is game over.
+
+- Stilts
+
+Running game where you control a person on stilts through progressively harder levels. Move the stilts using WASD and the arrow keys, or a controller.
+
+- Ropes
+
+Use ropes to stabilise a bridge, spiderman style
+Fishing game, catch larger fish/deeper for more points, wobbly boat, stuff pushes line or cuts it.
+
+You swing from rope to rope (or grappeling hook) killing robots/enemies and dodging traps. The recoil propels you. Get to the end of the level without running out of bullets (Your bullets is your propellant and used to kill enemies)
+
+You need to transport a radioactive payload.. You do this with swinging ropes.. Don't touch the walls
+
+- Tetris Jenga
+
+Place blocks, but ocasionally you need to delete a block instead of placing it.
+
+- Giraffe
+
+You are a giraffe, and you need to collect things, as giraffes do. Your neck keeps growing, and you have to balance it to prevent it from snapping.
